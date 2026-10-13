@@ -1,0 +1,18 @@
+Excellent work. A few notes:
+
+excersise_3 - you can't just write numbers inside the code
+
+num = int  (1213) can be written as num = 1213
+
+we only wrap in int() or float() when it is user input.
+
+exercise_5 - same as above, you could just write num = 23.5 and words = 'hello there' - you don't need the float or brackets below.
+
+num = float (23.5)
+words = ('hello there')
+
+
+excercise_8 - if you are taking in phone numbers keep them as strings. You will lose leading 0s if you convert them to int.
+
+
+Can you upload the rest of your work.

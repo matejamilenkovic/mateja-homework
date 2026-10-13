@@ -1,5 +1,0 @@
-num = float (23.5)
-words = ('hello there')
-num2 = float (23.5)
-day = ('Saturday')
-num3 = float (1.457)
